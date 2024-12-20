@@ -1,0 +1,63 @@
+
+body{
+	font-family: 'Arial', sans-serif;
+}
+
+.title{
+	font-size: 60px;
+	margin-bottom: 15px;
+}
+.texts{
+	font-size: 20px;
+	margin-bottom: 15px;
+
+}
+.banner{
+	background-image: url('music.png');
+	width: 100%;
+	height: 260px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.imgsize{
+	display:block;
+    width: 70%;
+}
+.textsp{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.theImage {
+	width: 400px;
+	height: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+table {
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+}
+  
+td, th {
+	border: 1px solid #dddddd;
+	text-align: left;
+	padding: 8px;
+}
+  
+tr:nth-child(even) {
+	background-color: #dddddd;
+}
+.album{
+	float:left;
+	padding-right: 10px;
+	width:200px;
+	height:200px;
+}
+.texta {
+	display: flex;
+  	align-items: center;
+ }
